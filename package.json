@@ -1,0 +1,23 @@
+{
+  "name": "deffered",
+  "version": "0.0.4",
+  "description": "deffered object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dream08/deffered.git"
+  },
+  "keywords": [
+    "deffered",
+    "js"
+  ],
+  "author": "d.samborskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dream08/deffered/issues"
+  },
+  "homepage": "https://github.com/Dream08/deffered#readme"
+}
